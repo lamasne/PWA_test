@@ -1,4 +1,4 @@
-# Hello World web page to TWA Android App
+# Hello World static web page to Android App
 
 This project demonstrates how to go from a simple Hello World HTML page to a TWA (Trusted Web Activity) running on an Android phone.
 
